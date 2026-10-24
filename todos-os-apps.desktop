@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Todos os Apps
+Comment=Mostra todos os aplicativos instalados
+Exec=python3 /home/kodish/.local/bin/todos-os-apps.py
+Icon=todos-os-apps
+Categories=Utility;
+Terminal=false
